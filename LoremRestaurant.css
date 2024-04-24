@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav1 img{
+    height: 80px;
+    width: 80px;
+}
+.nav2 a{
+    text-decoration: none;
+    font-size: large;
+    margin-inline: 15px;
+    color: black;
+}
+.nav3{
+    position: relative;
+    right: 25px;
+    
+}
+.nav3 a{
+    text-decoration: none;
+}
+#im1{
+    height: 27px;
+    width: 27px;
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+}
+#im2{
+    height: 50px;
+    width: 50px;
+}
+.section1 img{
+    height: 100%;
+    width: 100%;
+}
+#btn{
+    position: relative;
+    bottom: 200px;
+    left: 90px;
+    padding: 8px;
+    width: 300px;
+    color: white;
+    font-size: large;
+    background:linear-gradient(to right,rgb(3, 3, 9)
+    ,gray);
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(220, 218, 218, 0.886);
+    padding: 20px;
+}
+.section4
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 100px;
+}
+.section4 img{
+    height: 300px;
+    width: 350px;
+}
+.section3 h1{
+    position: relative;
+    left: 150px;
+    top: 50px;
+}
+#p3{
+    text-align: right;
+}
+#di{
+    text-align: center;
+}
+.section4 button{
+    padding: 8px;
+    width: 150px;
+    color: white;
+    background-color: black;
+}
+#btn2{
+    position: relative;
+    left: 110px;
+}
+#btn3{
+    position: relative;
+    left: 200px;
+}
